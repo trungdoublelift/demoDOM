@@ -1,0 +1,14 @@
+.container{
+    width: 100vw;
+    height: 100vh;
+  
+}
+.items{
+    width: 50%;
+    height: 50%;
+    display: flex;
+    border: 1px solid black;
+}
+.itemBox{
+    border: 2px solid red;
+}
